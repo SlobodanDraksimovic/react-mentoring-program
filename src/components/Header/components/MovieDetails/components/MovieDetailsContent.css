@@ -1,0 +1,43 @@
+.movie-details-content-container {
+  padding: 7vh 2rem;
+  display: flex;
+}
+
+.poster {
+  height: 35vh;
+  width: 205px;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.movie-details-text-content {
+  display: inline-block;
+  margin-left: 2rem;
+  color: var(--light-grey);
+  height: 35vh;
+  max-width: 80%;
+}
+
+.movie-title {
+  margin: 0;
+  font-weight: 500;
+  max-width: 70%;
+  display: inline-block;
+}
+
+.rating {
+  border: 2px solid var(--light-grey);
+  border-radius: 50%;
+  padding: 0.5rem;
+  font-size: 1.5em;
+  margin: 0 1rem;
+}
+
+.genre {
+  margin: 0.5rem 0 1rem;
+}
+
+.red-content {
+  color: var(--primary);
+  margin-right: 2rem;
+}

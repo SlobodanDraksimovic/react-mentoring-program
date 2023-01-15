@@ -1,0 +1,16 @@
+#title {
+  font-size: 1.25rem;
+  line-height: 1.5rem;
+  position: absolute;
+  left: 2rem;
+  top: 1rem;
+  color: var(--primary);
+}
+
+#title .first-subtitle {
+  font-weight: 900;
+}
+
+#title .second-subtitle {
+  font-weight: 500;
+}

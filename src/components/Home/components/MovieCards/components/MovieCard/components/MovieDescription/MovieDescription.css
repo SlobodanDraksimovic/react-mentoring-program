@@ -1,0 +1,22 @@
+.movie-description {
+  color: var(--light-grey);
+}
+
+.movie-description span {
+  display: block;
+  padding: 0.1rem 0;
+  max-width: 18rem;
+}
+
+span.year {
+  position: absolute;
+  bottom: 5%;
+  right: 0;
+  border: 1px solid var(--light-grey);
+  padding: 0.3rem;
+  border-radius: 4px;
+}
+
+span.genres {
+  max-width: 85%;
+}

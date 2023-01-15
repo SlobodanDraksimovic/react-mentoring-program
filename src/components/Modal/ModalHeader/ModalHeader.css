@@ -1,0 +1,29 @@
+.modal-header-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-end;
+}
+
+.close-btn {
+  background: transparent;
+  border: 0;
+  color: var(--white);
+  cursor: pointer;
+}
+
+.close-btn:active {
+  transform: scale(0.96);
+}
+
+.close-btn:focus {
+  outline: none;
+}
+
+.title {
+  align-self: flex-start;
+  color: var(--white);
+  font-weight: 300;
+  font-size: 2rem;
+  margin: 0;
+}

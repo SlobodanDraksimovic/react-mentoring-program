@@ -1,0 +1,17 @@
+.movie-actions {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  color: var(--white);
+  position: absolute;
+  top: 5%;
+  right: 20%;
+  background-color: var(--black);
+  border-radius: 4px;
+  width: 8.5rem;
+}
+
+.movie-action {
+  margin: 0.5rem;
+  width: 6.5rem;
+}

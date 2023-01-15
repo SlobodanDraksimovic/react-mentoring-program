@@ -1,0 +1,14 @@
+.movie-details-container {
+  position: relative;
+  width: 100%;
+  height: 45vh;
+  background-color: var(--black);
+}
+
+.icon-search {
+  cursor: pointer;
+  color: var(--primary);
+  position: absolute;
+  top: 10%;
+  right: 3%;
+}

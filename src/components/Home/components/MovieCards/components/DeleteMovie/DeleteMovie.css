@@ -1,0 +1,14 @@
+.delete-movie-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.helper-text {
+  color: var(--white);
+  margin: 2rem 0;
+}
+
+.confirm {
+  width: 8rem;
+  align-self: flex-end;
+}

@@ -1,0 +1,29 @@
+.footer-container {
+  background-color: var(--secondary);
+  padding: 1.5rem;
+  margin-top: 0.5rem;
+  width: 100%;
+}
+
+.footer-elements {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.footer-element {
+  font-size: 1.25rem;
+  line-height: 1.5rem;
+  color: var(--primary);
+  display: inline-block;
+  margin: 0 1rem;
+}
+
+.footer-element .first-subpart {
+  font-weight: 900;
+}
+
+.footer-element .second-subpart {
+  font-weight: 500;
+}
