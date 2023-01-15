@@ -1,11 +1,3 @@
-# React Mentoring Q4
+# React Mentoring Program
 
-## Commands
-**npm start**
- - *run app in dev mode*
-
-**npm run start:prod**
- - *run in prod mode*
-
-**npm run build**
- - *generate bundle files*
+# I've pushed all tasks as one project since I had problem with git.epam sharing.
